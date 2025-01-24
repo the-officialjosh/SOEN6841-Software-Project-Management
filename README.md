@@ -28,3 +28,12 @@ Each week, I will add a new journal entry reflecting on the topics covered in th
 **Term:** Winter 2025  
 
 ## Repository Structure
+README.md
+
+## License
+
+This repository is for educational purposes only. All content is original work unless otherwise cited.
+
+---
+
+Stay tuned for weekly updates!
