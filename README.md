@@ -1,6 +1,6 @@
-# SOEN6481 - Software Project Management
+# SOEN6841 - Software Project Management
 
-Welcome to my repository for the **SOEN6481 - Software Project Management** course at Concordia University, taught by **Prof. Joumana Dargham**. This repository serves as a collection of my work throughout the course, including learning journals, assignments, and projects.
+Welcome to my repository for the **SOEN6841 - Software Project Management** course at Concordia University, taught by **Prof. Joumana Dargham**. This repository serves as a collection of my work throughout the course, including learning journals, assignments, and projects.
 
 ## Contents
 
@@ -23,7 +23,7 @@ Each week, I will add a new journal entry reflecting on the topics covered in th
 
 ## About the Course
 
-**Course:** SOEN6481 - Software Project Management  
+**Course:** SOEN6841 - Software Project Management  
 **Instructor:** Prof. Joumana Dargham  
 **University:** Concordia University  
 **Term:** Winter 2025  
