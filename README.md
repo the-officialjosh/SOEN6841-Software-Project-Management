@@ -19,7 +19,7 @@ Welcome to my repository for the **SOEN6841 - Software Project Management** cour
 ## Learning Journal Updates
 
 Each week, I will add a new journal entry reflecting on the topics covered in the lectures, readings, and discussions. These updates aim to track my learning journey and demonstrate my growing understanding of software project management principles.
-[Learning Journal 1](Learning%20Journal%201.pdf)
+[Learning Journal 1](Learning%20Journal%202.pdf)
 
 ## About the Course
 
